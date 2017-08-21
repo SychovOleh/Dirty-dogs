@@ -1,5 +1,5 @@
 {
-  "name": "internship",
+  "name": "dirty-dogs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "bugs": {
     "url": "https://github.com/SychovOleh/Internship/issues"
   },
-  "homepage": "https://github.com/SychovOleh/Internship#readme",
+  "homepage": "https://github.com/SychovOleh/Internship",
   "description": ""
 }
