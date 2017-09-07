@@ -11,14 +11,12 @@ body {
 
 .head {
   &__img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     vertical-align: top;
     position: relative;
-    @media all and (min-width: 1400px) {
-      width: 100%;
-    }
     &-shadow {
+      width: 100%;
       height: auto;
       width: 100%;
       position: absolute;
